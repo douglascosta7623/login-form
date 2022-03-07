@@ -14,4 +14,4 @@ To start the project, just open the file `index.html` in your preferred browser.
 
 ---
 
-##### Coded with by Douglas Costa ♥️
+##### Coded with by Douglas Costa
